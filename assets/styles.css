@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.w3-navbar a:hover {
+    color: #fff !important;
+    background-color: #4CAF50 !important;
+}
+.menu-item {
+    margin-bottom: 15px;
+}
